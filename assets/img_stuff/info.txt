@@ -1,0 +1,186 @@
+Mã loại Hàng:
+0: Giày
+1: Dép
+2: Quần
+3: Áo
+
+
+1
+Tên: Jordan 'Why Not?' Zer0.4 PF
+QuyCach: dđôi
+Giá: 3,058,000
+Mã loại hàng: 0
+Màu: orange, blue
+https://www.nike.com/vn/t/jordan-why-not-zer04-pf-basketball-shoe-P3c3Rp/DD4886-100
+
+2
+Tên: Air Jordan 6 Retro
+QuyCach: Đôi
+Giá: 5,589,000₫
+Mã loại hàng: 0
+Màu: red, blue
+https://www.nike.com/vn/t/air-jordan-6-retro-shoe-4m3b9d/CT8529-106
+
+3
+Tên: Air Jordan 5 Retro
+QuyCach: Đôi
+Giá: 5,589,000₫
+Mã loại hàng: 0
+Màu: red, white
+https://www.nike.com/vn/t/air-jordan-5-retro-shoe-CHQqM4/DD0587-140
+
+4
+Tên: Jordan One Take II PF
+QuyCach: Đôi
+Giá: 2,048,000₫ 2,929,000₫ (30%off)
+Mã loại hàng: 0
+Màu: White,Orange
+https://www.nike.com/vn/t/jordan-one-take-ii-pf-basketball-shoe-m666jq/CW2458-163
+
+5
+Tên: Jordan Delta 2
+QuyCach: Đôi
+Giá: 3,058,000₫ 3,829,000₫ (20%off)
+Mã loại hàng: 0
+Màu: pink,grey
+https://www.nike.com/vn/t/jordan-delta-2-shoe-8Z0Rkk/CV8121-101
+
+6
+Tên: Nike ACG Air Mowabb
+QuyCach: Đôi
+Giá: 4,699,000₫
+Mã loại hàng: 0
+Màu: purple,rattan
+https://www.nike.com/vn/t/acg-air-mowabb-shoes-mrNQ8S/DC9554-200
+
+7
+Tên: Nike Air Force 1 Shadow
+QuyCach: Đôi
+Giá: 3,239,000₫
+Mã loại hàng: 0
+Màu: multi,rattan
+https://www.nike.com/vn/t/air-force-1-shadow-shoes-mN8Glx/CI0919-110
+
+8
+Tên: Nike Air Huarache
+QuyCach: Đôi
+Giá: 3,519,000₫
+Mã loại hàng: 0
+Màu: black, white
+https://www.nike.com/vn/t/air-huarache-shoes-Ts78zj/DH4439-101
+
+9
+Tên: Nike Air Max AP
+QuyCach: Đôi
+Giá: 3,519,000₫
+Mã loại hàng: 0
+Màu: black, white
+
+10
+Tên: Nike Air Max Bolt
+QuyCach: Đôi
+Giá: 2,649,000₫
+Mã loại hàng: 0
+Màu: white
+https://www.nike.com/vn/t/air-max-bolt-shoe-qcn5kT/CU4151-004
+
+------------------------------------------------------------------------
+
+11
+Tên: Nike Victori One
+QuyCach: Đôi
+Giá: 739,000₫
+Mã loại hàng: 1
+Màu: black, blue
+https://www.nike.com/vn/t/victori-one-shower-slide-KPPNdb/CZ5478-001
+
+12
+Tên: Nike Victori Two
+QuyCach: Đôi
+Giá: 818,000₫
+Mã loại hàng: 1
+Màu: black, white
+https://www.nike.com/vn/t/victori-one-printed-slide-2ZsMWk/CN9678-009
+
+
+------------------------------------------------------------------------
+
+13
+Tên: Nike Dri-FIT Academy
+QuyCach: cái
+Giá: 1,119,000₫
+Mã loại hàng: 2
+Màu: black
+https://www.nike.com/vn/t/victori-one-printed-slide-2ZsMWk/CN9678-009
+
+14	
+Tên: LeBron
+QuyCach: cái
+Giá: 1,839,000₫
+Mã loại hàng: 2
+Màu: black
+https://www.nike.com/vn/t/victori-one-printed-slide-2ZsMWk/CN9678-009
+
+15
+Tên: Nike Sportswear Tech Pack
+QuyCach: cái
+Giá: 3,419,000₫
+Mã loại hàng: 2
+Màu: brown
+https://www.nike.com/vn/t/sportswear-tech-pack-cargo-trousers-D51Dcz/DD6571-004
+
+
+16
+Tên: Nike Air Trousers up
+QuyCach: cái
+Giá: 2,039,000₫ 
+Mã loại hàng: 2
+Màu: green
+https://www.nike.com/vn/t/air-trousers-mBskhB/DC4320-222
+
+
+-----------------------------------------------------------------------
+
+17
+Tên: Nike Solo Swoosh
+QuyCach: cái
+Giá: 919,000₫
+Mã loại hàng: 3
+Màu: white, red
+https://www.nike.com/vn/t/solo-swoosh-t-shirt-2CFK7L/DA0321-661
+
+18
+Tên: Nike ESC
+QuyCach: cái
+Giá: 5,719,000₫
+Mã loại hàng: 3
+Màu: black, white
+https://www.nike.com/vn/t/esc-short-sleeve-knit-top-NCnJ9K/DH2670-100
+
+19
+Tên: Kyrie Irving Nets Statement Edition 2020
+QuyCach: cái
+Giá: 2,419,000₫
+Mã loại hàng: 3
+Màu: grey
+https://www.nike.com/vn/t/kyrie-irving-nets-statement-edition-2020-jordan-nba-swingman-jersey-f8Qf6h/CV9469-008
+
+20
+Tên: Nike ESC - Men's Shirt Jacket
+QuyCach: cái
+Giá: 10,309,000₫
+Mã loại hàng: 3
+Màu: rattan
+https://www.nike.com/vn/t/esc-shirt-jacket-FFTvKX/DH2898-230
+
+
+
+
+
+
+
+
+
+
+
+

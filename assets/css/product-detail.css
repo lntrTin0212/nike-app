@@ -1,0 +1,185 @@
+.main-product {
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.product-container {
+    margin-top: 48px;
+    width: 100%;
+    background-color: white;
+    padding-top: 50px;
+    border: 1px solid #e5e5e5;
+}
+.main-container {
+    display: flex;
+}
+.product-img {
+    width: 984px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.product-wrapper {
+    padding: 0 6px;
+    padding-bottom: 8px;
+}
+.img-detail {
+    display: inline-block;
+    width: 100%;
+}
+.img-detail img {
+    width: 100%;
+}
+.product-detail {
+    padding: 20px;
+    flex: 1;
+    font-family:var(--sec-font);
+}
+
+.product-wrapper {
+    /* width: 434px; */
+    width: 48%;
+    /* padding-top: 125%; */
+
+}
+
+.title-name {
+    font-size: 30px;
+}
+.title-type {
+    margin-top: 6px;
+    font-size: 18px;
+}
+.title-price {
+    margin-top: 20px;
+
+}
+.product-form {
+    margin-top: 60px;
+}
+.size-title {
+    display: flex;
+    justify-content: space-between;
+}
+.input-size {
+    visibility: hidden;
+    position: absolute;
+    top:0;
+}
+.size-board {
+    margin-top: 6px;
+    display: grid;
+    grid-gap: 10px;
+    grid-template-columns: auto auto auto;
+    align-items: center;
+}
+.size-board--warn {
+    border-bottom: 4px solid rgb(231, 59, 59);
+    border-radius: 12px;
+    transition: .1s linear;
+}
+.size-board-nor {
+    border-bottom: 0px solid rgb(231, 59, 59);
+    border-radius: 12px;
+    transition: .1s linear;
+}
+.size-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    padding: 12px 0;
+    border-radius: 6px;
+    cursor: pointer;
+    border: 1px solid #e5e5e5;
+}
+.size-button:hover {
+    border: 1px solid black;
+
+}
+
+
+.input-size:checked + .size-button {
+    border: 1px solid black;
+}
+.submit {
+    display: block;
+    width: 100%;
+    margin-top: 20px;
+    padding: 20px 0;
+    border-radius: 50px;
+    border: none;
+    font-size: 18px;
+    text-transform: capitalize;
+    cursor: pointer;
+}
+.nike-logo--modal {
+    display: none;
+}
+.submit-modal {
+        background-color: black;
+color: white;
+    transition: .2s ease-in-out;
+}
+.submit-modal:hover{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    color: black;   
+    outline:2px solid #e5e5e5
+}
+.submit-modal:hover .nike-logo--modal{
+    flex: 1;
+    /* visibility: visible; */
+    display: block;
+}
+.submit-modal p {
+    /* transition: .2s ease-in-out; */
+}
+.submit-modal:hover p {
+    flex: 1;
+}
+.submit-add{
+    background-color: black;
+    color: white;
+    transition: .2s ease-in-out;
+
+}
+.submit-add:hover {
+    opacity: 0.7;
+}
+.submit-fav{
+    background-color: transparent;
+    border:1px solid #e5e5e5;
+    color: black;
+}
+.submit-fav:hover {
+    outline:2px solid #e5e5e5;
+}
+.product-about {
+    padding-top:60px ;
+}
+
+.pre-about p{
+    font-size: 18px;
+    line-height: 1.75;
+}
+.noti-fav,
+.noti-cart {
+    text-align: center;
+    height: 30px;
+    font-size: 16px;
+    line-height: 32px;
+    color: rgb(170, 34, 34);
+}
+.product-size--chart {
+    height: 212px;
+}
+.deliver-container {
+    width: 100%;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.deliver-container > p{
+    font-size: 16px;
+    
+}
